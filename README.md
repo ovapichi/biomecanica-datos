@@ -9,7 +9,7 @@
 
 # Procesamiento de datos de biomecánica deportiva con python
 
-_Get started using GitHub in less than an hour._
+Aquí dejo los scripts que fui utilizando dentro del laboratorio de biomecánica para procesar los datos exportados de las plataformas de fuerza y dinamómetros de la marca WinLaborat
 
 </header>
 
