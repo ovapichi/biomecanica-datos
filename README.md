@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Procesamiento de datos de biomecánica deportiva con python
 
 _Get started using GitHub in less than an hour._
 
