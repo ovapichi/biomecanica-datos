@@ -24,3 +24,6 @@ Es un script para procesar los datos obtenidos desde las plataformas de fuerza W
 
 ## Archivo Informa Plataformas WL
 Desde los archivos .csv generados por el Archivo Plataformas WL Armado Tabla, toma los datos y los procesa a través de fórmulas, y genera un .pdf agrupado con los deportistas según sus resultados lo cual le sirve al preparador físico para agrupar a los deportistas en los ejercicios especificos que tiene que realizar.
+
+## Archivo McGill_y_Celda_Sinforniif
+Desde los .csv generados en los archivos anteriores se toman para armar un informe en .pdf para entrenadores con pandas, fue un desafío para mejorar el rendimiento del script para no tener que recurrir a sucesivas iteraciones y condicionantes.
